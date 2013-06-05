@@ -1,5 +1,7 @@
 A Java library for talking TinCan to the world.
 
+[![Build Status](https://travis-ci.org/RusticiSoftware/TinCanJava.png)](https://travis-ci.org/RusticiSoftware/TinCanJava)
+
 http://tincanapi.com/
 
 This library uses Maven 3 for project management, building, etc. It outputs Maven artifacts.
